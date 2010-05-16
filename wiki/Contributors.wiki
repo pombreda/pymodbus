@@ -12,3 +12,7 @@ base, so what follows is a collection of people who have contributed.
 
   * Juanjo Conti - found and fixed a number of bugs.
   * Anders Hedberg - fixed the CRC checksum calculation and tested the serial implementation
+
+== Other ==
+
+  * Cem for the project icon - http://cemagraphics.deviantart.com
