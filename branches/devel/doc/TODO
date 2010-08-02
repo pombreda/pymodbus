@@ -1,0 +1,30 @@
+#---------------------------------------------------------------------------# 
+# Current Work In Progress
+#---------------------------------------------------------------------------# 
+** Protocols **
+  - Serial RTU
+
+** Functions **
+  - Diagnostic
+  - Server informtation
+  - Server settings
+  - Mask functions
+
+** Server Context **
+  - Plug into server object (only for serial?)
+  - Add support for slaves.  This should be as simple as a dict of 
+    id : Context()
+
+** Client **
+  - Rework transaction flow and response data
+  - Finish rtu framers
+
+** Tools **
+  - Unify a quick testing tool (unit/lint/coverage/figleaf/etc...)
+  - Get 100%ish code coverage with solid unit testing to ensure reliability
+
+
+from twisted.python import log
+observer = log.PythonLoggingObserver()
+observer.start()
+
