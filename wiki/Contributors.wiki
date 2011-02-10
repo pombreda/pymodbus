@@ -10,6 +10,7 @@ base, so what follows is a collection of people who have contributed.
 
 == Bug Fixes ==
 
+  * Albert Brandl - lots of testing which found and fixed lots of bugs.
   * Juanjo Conti - found and fixed a number of bugs.
   * Anders Hedberg - fixed the CRC checksum calculation and tested the serial implementation
 
