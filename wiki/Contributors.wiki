@@ -7,6 +7,7 @@ base, so what follows is a collection of people who have contributed.
 
   * Hynek Petrak - created the base implementation that the library was built off of.
   * Riccardo Böttcher - cleaned up the logging code and helped with some async issues
+  * Albert Brandl - working on the RTU implementation
 
 == Bug Fixes ==
 
